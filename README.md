@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Agaya Holdings (Pvt) Ltd.
+ 🔭 I’m currently working on ... Agaya Holdings (Pvt) Ltd.
 - 🌱 I’m currently learning ... Flutter
 - 👯 I’m looking to collaborate on ... Flutter
 - 🤔 I’m looking for help with ... AWS
