@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently looking for a position - Software Engineer
-- 🌱 I’m currently learning ... Flutter
-- 👯 I’m looking to collaborate on ... Flutter
+- 🌱 I’m currently learning ... Vue.js
+- 👯 I’m looking to collaborate on ... Vue.js
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... https://dulanjali-senarathna-portfolio.vercel.app/
